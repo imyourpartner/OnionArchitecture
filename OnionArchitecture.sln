@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UILayer", "UILayer\UILayer.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainEntitiesLayer", "DomainEntitiesLayer\DomainEntitiesLayer.csproj", "{4827E5B9-148B-474B-98F5-00AFB9232634}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryLayer", "RepositoryLayer\RepositoryLayer.csproj", "{1050B9FC-2364-42DE-B875-EF83F602085F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{4827E5B9-148B-474B-98F5-00AFB9232634}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4827E5B9-148B-474B-98F5-00AFB9232634}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4827E5B9-148B-474B-98F5-00AFB9232634}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1050B9FC-2364-42DE-B875-EF83F602085F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1050B9FC-2364-42DE-B875-EF83F602085F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1050B9FC-2364-42DE-B875-EF83F602085F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1050B9FC-2364-42DE-B875-EF83F602085F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
