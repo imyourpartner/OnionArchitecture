@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainEntitiesLayer", "Doma
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryLayer", "RepositoryLayer\RepositoryLayer.csproj", "{1050B9FC-2364-42DE-B875-EF83F602085F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceLayer", "ServiceLayer\ServiceLayer.csproj", "{173CA81C-534A-42DD-BCD1-FFAE2AC62454}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{1050B9FC-2364-42DE-B875-EF83F602085F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1050B9FC-2364-42DE-B875-EF83F602085F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1050B9FC-2364-42DE-B875-EF83F602085F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{173CA81C-534A-42DD-BCD1-FFAE2AC62454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{173CA81C-534A-42DD-BCD1-FFAE2AC62454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{173CA81C-534A-42DD-BCD1-FFAE2AC62454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{173CA81C-534A-42DD-BCD1-FFAE2AC62454}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
