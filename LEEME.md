@@ -31,16 +31,12 @@ Por otro lado, Onion Architecture aborda tanto la separación de preocupaciones c
 # Capas de arquitectura de cebolla
 
 Esta arquitectura se basa en gran medida en el principio de inversión de dependencia. La interfaz de usuario se comunica con la lógica empresarial a través de interfaces. Tiene cuatro capas
+![](https://github.com/imyourpartner/MyFiles/blob/master/8540.onion-1.PNG-439x435.png)
 
 1. Domain Entities Layer
-
 2. Repository Layer
-
 3. Service Layer
-
 4. UI (Web/Unit Test) Layer
-
-   ![](https://github.com/imyourpartner/MyFiles/blob/master/8540.onion-1.PNG-439x435.png)
 
 1. Capa de entidades de dominio
 2. Capa de repositorio
